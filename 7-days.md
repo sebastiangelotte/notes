@@ -1,3 +1,9 @@
+---
+slug: "7-days"
+category: "Experiment"
+title: "7 days"
+date: "2020-07-17"
+---
 # 7 days: day 0
 
 I intend to run an experiment on myself. Don't worry, it's nothing too scary. Here's my mission statement:
