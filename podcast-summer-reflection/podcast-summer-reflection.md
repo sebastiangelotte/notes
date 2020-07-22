@@ -40,7 +40,7 @@ I will go through the questions from my point of view. If you'd like to hear the
 
 #### Schedule
 
-Our schedule look like this:
+Our schedule looks like this:
 
 |Monday - Sunday|Sunday 20:00 - 00:00|
 |---|---|
