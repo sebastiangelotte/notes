@@ -19,5 +19,6 @@ The example here uses a separate repo for markdown files (blog posts) for which 
 ![Add webhook in Netlify](netlify-add-webhook.png "Add webhook in Netlify")
 
 ### 2. Add the webhook to repo in GitHub
+![Add webhook in GitHub](github-add-webhook.png "Add webhook in GitHub")
 
 ### 3. Enjoy
