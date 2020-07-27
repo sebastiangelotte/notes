@@ -1,6 +1,6 @@
 ---
 slug: "webhooks-netlify"
-category: "Hosting"
+category: "netlify"
 title: "Webhooks in Netlify"
 date: "2020-07-18"
 ---
