@@ -11,7 +11,7 @@ This summer marked the end of the third season of my [podcast](https://trevligmj
 
 This reflection will be recorded and released as an off-season episode on the podcast in case anyone is interested in hearing our take-aways and discussions about what it's like to run a weekly podcast.
 
-Link to the episode here: [INSERT LINK](http://trevligmjukvara.se)
+Link to the episode here: [Sommar 2020](http://trevligmjukvara.se/sommar2020)
 
 ## The structure of the podcast
 
